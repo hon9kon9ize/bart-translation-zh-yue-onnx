@@ -1,0 +1,12 @@
+{
+  "cSpell.words": [
+    "boto",
+    "dotenv",
+    "dtype",
+    "huggingface",
+    "sess"
+  ],
+  "python.analysis.extraPaths": [
+    "./fast-Bart"
+  ]
+}
